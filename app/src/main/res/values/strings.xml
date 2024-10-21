@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">tic tac toe</string>
     <string name="imageview">ImageView</string>
-    <string name="player_one">Player One</string>
     <string name="_0">0</string>
+    <string name="player_one">Player One</string>
     <string name="player_two">Player Two</string>
 </resources>
