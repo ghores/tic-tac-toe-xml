@@ -8,4 +8,4 @@ The technologies used in this project consist of:
 
 # Screenshot
 
-<img src="images/trivia1.png" width="250"/> <img src="images/trivia2.png" width="250"/>
+<img src="images/tictactoe1.png" width="250"/> <img src="images/tictactoe2.png" width="250"/>
